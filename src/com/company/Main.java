@@ -9,7 +9,7 @@ public class Main {
 
         newcar.name="Lamboooo";
         newcar.engineCapacity="45678cc";
-        newcar.doors=7;
+        newcar.doors=6;
         newcar.model="aventador";
 
         System.out.println(newcar.model);
